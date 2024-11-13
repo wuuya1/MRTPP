@@ -17,7 +17,7 @@ About
 **Vedio:** The accompanying video of **IMTAP** is available on [YouTube](https://youtu.be/wl-qLTwR71o) and [Bilibili](https://www.bilibili.com/video/BV1J64nenEPu/?vd_source=2658f83f585aa71b9b5afb08f08e6dc8):
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=RY3WLkE3kZs" target="_blank">
+    <a href="https://youtu.be/wl-qLTwR71o" target="_blank">
     <img src="image/fig_cover1.png" width=70% />
 </div>
 
