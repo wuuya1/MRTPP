@@ -18,7 +18,7 @@ About
 
 <div align="center">
     <a href="https://www.youtube.com/watch?v=RY3WLkE3kZs" target="_blank">
-    <img src="image/cover.png" width=70% />
+    <img src="image/fig_cover1.png" width=70% />
 </div>
 
 
