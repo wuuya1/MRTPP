@@ -7,7 +7,7 @@ The implementation of a novel Integrated Task Allocation and Path Planning for M
 Description
 -----
 
-We present a novel multi-robot task allocation and path planning method that considers robots’ maximum range constraints in large-sized workspaces, enabling robots to complete the assigned tasks within their range limits. 
+We present a intergrated multi-robot task allocation and path planning method that accounts for additional obstacle avoidance and turning travel distances instead of ideal straight-line distances, achieving more efficient cooperation among multiple robots. 
 
 About
 -----
