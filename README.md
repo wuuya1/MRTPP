@@ -5,7 +5,7 @@ Description
 
 We present the implementation of an efficient multi-robot task and path planning (**MRTPP**) method for multi-robot coordination in large-scale cluttered environments. The source code of our method, along with the compared state-of-the-art (SOTA) solvers, is implemented in Python and publicly available here. 
 
-The main contributions are summarized as follows: 1) A fast path planner suitable for large-scale and cluttered workspaces that efficiently constructs the cost matrix of collision-free paths between tasks and robots for solving the MRTPP problem. 2) An efficient auction-based method for solving the MRTPP problem by incorporating a novel memory-aware strategy, aiming to minimize the maximum travel cost for robots to visit tasks. 
+**The main contributions are summarized as follows:** 1) A fast path planner suitable for large-scale and cluttered workspaces that efficiently constructs the cost matrix of collision-free paths between tasks and robots for solving the MRTPP problem. 2) An efficient auction-based method for solving the MRTPP problem by incorporating a novel memory-aware strategy, aiming to minimize the maximum travel cost for robots to visit tasks. 
 
 About
 -----
