@@ -50,9 +50,9 @@ Citation
   journal={IEEE Robotics and Automation Letters}, 
   title={Efficient Multi-Robot Task and Path Planning in Large-Scale Cluttered Environments}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-8},
+  volume={10},
+  number={9},
+  pages={9112-9119},
   doi={10.1109/LRA.2025.3592146}
 }
 ```
