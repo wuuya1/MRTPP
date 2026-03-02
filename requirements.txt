@@ -1,0 +1,14 @@
+numpy~=1.24.4
+matplotlib~=3.7.5
+imageio~=2.34.1
+pandas~=2.0.3
+pyproj~=3.5.0
+scipy~=1.10.1
+shapely~=2.0.4
+yaml~=0.2.5
+pyyaml~=6.0.1
+pygame~=2.5.2
+moviepy~=1.0.3
+seaborn~=0.13.2
+gurobipy~=11.0.3
+ortools~=9.12.4544

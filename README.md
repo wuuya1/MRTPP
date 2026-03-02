@@ -14,7 +14,7 @@ About
 
 **Authors**: Gang Xu, Yuchen Wu, Sheng Tao, Yifan Yang, Tao Liu, Tao Huang, Huifeng Wu, and Yong Liu  
 
-**Accepted to**: IEEE Robotics and Automation Letters (**RA-L**), 2025
+**Published: IEEE Robotics and Automation Letters (RA-L)**, 2025
 
 **Code**: The source code will be released soon.
 
@@ -40,6 +40,24 @@ Experimental Results
 <p align="center">
     <img src="figures/fig4.png" width="1200" height="320" />
 </p>
+Requirement
+-----
+
+```python
+# Install version 3.0.7 of LKH.
+wget http://akira.ruc.dk/~keld/research/LKH-3/LKH-3.0.7.tgz
+tar xvfz LKH-3.0.7.tgz
+cd LKH-3.0.7
+make
+sudo cp LKH /usr/local/bin
+
+# The Python interpreter is version 3.8.
+# Running 'ovs_lmtaPolicy.py' will yield the task planning results of the proposed method for the given example.
+# Running 'ovsPlanner.py' will yield the path planning results of the proposed OVS planner for the given example.
+# Running 'general_config.py' can generate the robot's position and the target positions to be visited, thereby creating the distance matrix information.
+```
+
+-----
 
 Citation
 -----
